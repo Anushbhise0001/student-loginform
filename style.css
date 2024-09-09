@@ -1,3 +1,8 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 body {
     color: black;
     background-color: #f9fafc;
@@ -15,7 +20,7 @@ body {
     background-color: #ffffff;
     border: 2px solid #e0dbd3;
     border-radius: 20px;
-    width: 402px;
+    width: 452px;
     margin: 0 auto;
     padding: 7px 50px 50px 50px;
 }
@@ -24,7 +29,7 @@ body {
     background-color: #ffffff;
     border: 2px solid #e0dbd3;
     border-radius: 20px;
-    width: 405px;
+    width: 468px;
     margin: 0 auto;
     height: 538px;
     padding: 7px 38px 2px 38px;
